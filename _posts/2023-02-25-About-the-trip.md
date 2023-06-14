@@ -1,10 +1,14 @@
 ---
-layout: post
 title: "The Ultimate Coast to Coast Motorcycle Adventure"
-author: "Erik Azar"
-categories: trip
-tags: [trip,kwtopb]
-image: LUPML0Logo.jpg
+header:
+  
+categories:
+  - Layout
+  - trip
+tags:
+  - trip
+  - kwtopb
+last_modified_at: 2023-02-25T15:12:19-04:00
 ---
 
 On February 25, 2022 my mother lost her short battle with Stage 4 Lung Cancer. Since the time of her death I've picked back up my love for motorcycling and discovered that I enjoy long solo motorcycle camping trips. This trip is to continue stepping out of my confort zone and push my physical and mental abilities. And what a better cause than to raise money for the American Lung Association as I continue my journey.
