@@ -1,8 +1,7 @@
 ---
 title: "Happy Heavenly Birthday Mom"
 header:
-  overlay_image: /assets/images/mom.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  teaser: /assets/images/mom.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn more"
